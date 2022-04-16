@@ -1,0 +1,10 @@
+1. Vardas - tekstas, negali būti skaičių ir kitų simbolių. Ilgis- 40. Min 
+ilgis - 2.
+2. Pavardė - tekstas, negali būti skaičių ir kitų simbolių. Ilgis- 40. Min
+ilgis - 2.
+3. Gimimo data - 2001-06-12 - MMMM-mm-dd
+4. Miestas - tekstas, be skaičių ir kitų simbolių.
+5. Programa - dropdown: JavaScript programa, JAVA, PHP, Programinės 
+įrangos testuotojas.
+6. Grupė - dropdown: JS21-2, PHP21-1, PT21-1, JP21-2.
+
