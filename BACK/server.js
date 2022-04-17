@@ -3,7 +3,7 @@ const app = require("./app");
 
 
 const DB =
-  "mongodb+srv://cruxman:.HZ$v$Gwkn*wi4K@cluster0.kt7pj.mongodb.net/students-db-example?retryWrites=true&w=majority";
+  "mongodb+srv://root:CwSRDBXOBt93A0BT@cluster0.yvqlo.mongodb.net/BudgetingApp?retryWrites=true&w=majority";
 mongoose
   .connect(DB, {
     useNewUrlParser: true,
